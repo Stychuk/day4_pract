@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(116, 181, 255);
+}
+h1{
+    text-align: center;
+}
+.btn{
+    color: blue;
+}
+.btn:hover{
+    text-decoration: underline;
+}
+.button{
+    background-color: yellow;
+    padding: 5px 5px;
+    margin-top: 5px;
+}
+table{
+    justify-content: center;
+    align-content: stretch;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: rgb(247, 207, 132);
+    font-size: 14px;
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+TH{
+    font-weight: bold;
+    padding: 5px;
+    background: #00000000;
+    border: 2px solid #000000;
+}
+TD{
+    padding: 5px;
+    color: black;
+    border: 2px solid black;
+}
+
